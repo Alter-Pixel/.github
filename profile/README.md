@@ -4,10 +4,8 @@
 
 **A digital product agency building web platforms, mobile apps, and AI automation for businesses in Egypt and Saudi Arabia.**
 
-🌐 [alterpixel.com](https://alterpixel.com)
-
 ---
 
 ## Get in touch
 
-Have a project in mind? Reach out through [alterpixel.com](https://alterpixel.com) or connect with us on LinkedIn.
+Have a project in mind? Reach out through [alter-pixel.com](https://alter-pixel.com) or connect with us on [LinkedIn](https://www.linkedin.com/company/alterpixel/).
